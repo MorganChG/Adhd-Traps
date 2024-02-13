@@ -1,1 +1,2 @@
 # Adhd-Traps
+These are programs that I have made from the beginning of Senior year of High School to my First year at College. The concept was made when I was working on a program in the middle of one of my classes and I noticed that one of my friends would stare at my computer when I was working on the program. So I decided to make tons of programs with the hope that it will capture the attention of those who have adhd. Hince the name ADHD Traps.
